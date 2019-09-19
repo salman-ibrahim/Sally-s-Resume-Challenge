@@ -1,0 +1,53 @@
+body {
+
+}
+
+.header-title	{
+
+
+}
+
+.section-title	{
+
+	text-align: center;
+}
+
+main .introduction	{
+
+	text-align: center;
+}
+
+.about-sc {
+
+	text-align: center;
+}
+
+.about-info	{
+
+
+}
+
+ul {
+
+	list-style: none;
+}
+#profile {
+
+	width: 150px;
+	height: 150px;
+}
+
+.education-sc {
+
+}
+
+.institute {
+
+	color:grey;
+}
+
+.year {
+
+	font-style: italic;
+	color:grey;
+}
